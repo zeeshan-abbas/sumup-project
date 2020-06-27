@@ -19,7 +19,7 @@ allprojects {
     repositories {
         google()
         jcenter()
-        maven { url 'https://www.maven.sumup.com/releases' }
+        maven { url 'https://maven.sumup.com/releases' }
 
     }
 }
